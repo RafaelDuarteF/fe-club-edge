@@ -24,7 +24,7 @@ https://www.tinkercad.com/things/eaBaSlt0gzp-medidores-de-distancia-entre-carros
 
 ## Conceito do projeto / seu funcionamento
 
-A ideia do projeto consistiu em construir um protótipo no qual seja possível medir a distância entre carros durante corridas da Fórmula E, além de calcular a média dessa distância ao longo de toda corrida. Em cima disso, caso o piloto esteja muito próximo do carro da frente, é emitido um som no buzzer e o led vermelho acenderá, indicando aproximação perigosa. A média de distância entre carros ao fim da corrida não apenas serve como uma informação para as equipes, mas também para a demonstração da própria modalidade de uma de suas características: proximidade entre os carros.
+A ideia do projeto consistiu em construir um protótipo no qual seja possível medir a distância entre carros durante corridas da Fórmula E, além de calcular a média dessa distância ao longo de toda corrida. Em cima disso, caso o piloto esteja muito próximo do carro da frente, é emitido um som no buzzer e o led vermelho acenderá, indicando aproximação perigosa. A média de distância entre carros ao fim da corrida não apenas serve como uma informação para as equipes, mas também para a demonstração da própria modalidade de uma de suas características: proximidade entre os carros. <br>
 Para complementar, foi realizada a implementação de um sensor de temperatura, com o objetivo de detectar a temperatura da pista e avisar tanto a central da equipe, quanto ao piloto, sobre a mesma. Caso a pista esteja muito quente, é emitido um som no buzzer e o led vermelho acenderá. Dessa forma, torna-se possível a ciência da equipe sobre as condições da pista para tomadas de decisões estratégicas, afinal uma pista quente desgasta mais os pneus.
 
 
