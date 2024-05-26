@@ -31,7 +31,7 @@ Para complementar, foi realizada a implementação de um sensor de temperatura, 
 ### Reprodução visual:
 
 ![image](https://github.com/RafaelDuarteF/fe-club-edge/assets/103393497/94f00ba7-128b-459f-bc45-7e82f0c35771)
-![image](https://github.com/RafaelDuarteF/fe-club-edge/assets/103393497/efc6cc16-1a31-496d-be1a-b4beba29a575)
+![image](https://github.com/RafaelDuarteF/fe-club-edge/assets/103393497/a8d14c65-4260-4dc5-a4f2-6cd52d88e957)
 
 
 ### Código utilizado:
